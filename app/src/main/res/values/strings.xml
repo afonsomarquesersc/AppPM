@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Welcome" translatable="false">Hello to all</string>
+    <string name="file" translatable="false">file</string>
+    <string name="create_new" translatable="false">create_new</string>
+    <string name="open" translatable="false">open</string>
+</resources>
